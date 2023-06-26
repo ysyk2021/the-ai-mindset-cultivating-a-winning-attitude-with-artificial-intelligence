@@ -1,5 +1,4 @@
-Chapter 4: AI and Leadership: Role of AI in Leadership and Decision-Making
-==========================================================================
+# Role of AI in Leadership and Decision-Making
 
 Artificial intelligence (AI) has the potential to transform leadership practices, including decision-making. In this chapter, we'll explore the role of AI in leadership and decision-making.
 

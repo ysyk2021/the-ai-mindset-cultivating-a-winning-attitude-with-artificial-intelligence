@@ -1,5 +1,4 @@
-Chapter 4: AI and Leadership: Advantages and Limitations of AI in Leadership
-============================================================================
+# Advantages and Limitations of AI in Leadership
 
 Artificial intelligence (AI) has the potential to transform leadership practices, but it also has its advantages and limitations. In this chapter, we'll explore the advantages and limitations of AI in leadership.
 
