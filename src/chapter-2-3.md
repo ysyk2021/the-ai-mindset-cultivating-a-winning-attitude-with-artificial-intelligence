@@ -1,4 +1,4 @@
-# Machine Learning and Deep Learning
+
 
 Machine learning and deep learning are two critical components of artificial intelligence (AI) technology. In this chapter, we'll explore the basics of machine learning and deep learning.
 

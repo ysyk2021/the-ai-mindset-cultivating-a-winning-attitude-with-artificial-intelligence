@@ -1,4 +1,4 @@
-# Discussion of the Impact of AI on Society
+
 
 As AI technology becomes more widespread, its impact on society is becoming increasingly important. In this chapter, we'll discuss the impact of AI on society in more detail.
 
