@@ -1,5 +1,4 @@
 
-
 As AI technology becomes more widespread, it is becoming increasingly important to consider the ethical implications and take responsibility for its development and use. In this chapter, we'll explore the ethical considerations and responsibility in using AI.
 
 Bias and Discrimination in AI Algorithms

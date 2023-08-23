@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is a rapidly growing field that has the potential to transform the way we live and work. In this chapter, we'll explore the basics of AI technology, including its capabilities, types, and applications.
 
 Explanation of AI Technology and Its Capabilities

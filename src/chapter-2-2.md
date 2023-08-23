@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is transforming the way we live and work, and there are different types of AI that enable machines to learn and improve their performance over time. In this chapter, we'll explore the three main types of AI: supervised learning, unsupervised learning, and reinforcement learning.
 
 Supervised Learning

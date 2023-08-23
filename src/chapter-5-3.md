@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is transforming the way we work and make decisions, including in leadership roles. In this chapter, we'll explore the importance of balancing human intuition and AI-driven insights in leadership.
 
 The Role of AI in Leadership

@@ -1,5 +1,4 @@
 
-
 As artificial intelligence (AI) technologies continue to advance, it's becoming increasingly important for businesses to learn how to collaborate effectively with AI. In this chapter, we'll explore best practices for working alongside AI technologies, including:
 
 Identifying the Right Tasks for AI Collaboration

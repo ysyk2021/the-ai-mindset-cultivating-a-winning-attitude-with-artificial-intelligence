@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) refers to the ability of machines to perform tasks that would typically require human intelligence, such as learning, reasoning, and problem-solving. In this chapter, we'll explore the basics of AI technology and its capabilities.
 
 Types of AI Technology

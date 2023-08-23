@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) has the potential to transform leadership practices, including decision-making. In this chapter, we'll explore the role of AI in leadership and decision-making.
 
 AI's Role in Leadership

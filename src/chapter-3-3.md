@@ -1,5 +1,4 @@
 
-
 Developing an AI mindset requires a commitment to continuous learning and a growth mindset. In this chapter, we will explore the importance of these two concepts and how they relate to cultivating a winning attitude with artificial intelligence (AI).
 
 Continuous Learning
