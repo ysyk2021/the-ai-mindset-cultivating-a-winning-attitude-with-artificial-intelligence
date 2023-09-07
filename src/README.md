@@ -14,3 +14,7 @@ Whether you are new to AI or already familiar with its concepts, "The AI Mindset
 Let us embark on this exciting journey together as we explore the potential of artificial intelligence and learn how to cultivate a winning attitude with an AI mindset. Get ready to unleash your full potential and embrace the future of technology!
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
