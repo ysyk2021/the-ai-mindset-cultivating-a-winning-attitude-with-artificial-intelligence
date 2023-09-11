@@ -1,5 +1,4 @@
-Chapter 5: Best Practices for Working Alongside AI Technologies
-===============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the ever-evolving landscape of artificial intelligence (AI), cultivating an AI mindset is essential for individuals and organizations seeking to harness the full potential of AI technologies. This chapter explores the best practices for effectively collaborating with AI technologies and integrating them into various aspects of work and decision-making.
 

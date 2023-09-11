@@ -1,5 +1,4 @@
-Chapter 9: Strategies for Promoting AI Adoption and Integrating it into Company Culture
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The integration of Artificial Intelligence (AI) into a company's culture is a multifaceted endeavor that requires strategic planning and concerted effort. This chapter explores effective strategies for promoting AI adoption and embedding it seamlessly within the fabric of an organization.
 

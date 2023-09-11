@@ -1,5 +1,4 @@
-Chapter 2: Explanation of AI Technology and Its Capabilities
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 To cultivate a winning attitude with artificial intelligence (AI), it's crucial to understand the underlying technology and its remarkable capabilities. In this chapter, we delve into the fundamentals of AI, its subfields, and the diverse range of applications that harness its power.
 

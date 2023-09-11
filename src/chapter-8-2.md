@@ -1,5 +1,4 @@
-Chapter: Potential Benefits and Challenges of Widespread AI Adoption
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the potential benefits and challenges associated with the widespread adoption of artificial intelligence (AI). Understanding these aspects is crucial for individuals and organizations aiming to harness AI's capabilities effectively.
 

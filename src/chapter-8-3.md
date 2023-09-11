@@ -1,5 +1,4 @@
-Chapter: Ethical Considerations and Responsibility in Using AI
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the critical ethical considerations and the responsibility that individuals and organizations must uphold when harnessing the power of artificial intelligence (AI). Ensuring ethical AI practices is essential for maintaining trust and minimizing potential harm.
 

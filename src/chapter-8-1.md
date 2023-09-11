@@ -1,5 +1,4 @@
-Chapter: Discussion of the Impact of AI on Society
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the multifaceted impact of artificial intelligence (AI) on society. As AI technologies continue to advance and permeate various aspects of our lives, understanding their effects is crucial for informed decision-making and responsible adoption.
 

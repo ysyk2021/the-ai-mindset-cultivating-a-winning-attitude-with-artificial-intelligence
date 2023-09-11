@@ -1,5 +1,4 @@
-Chapter 3: Techniques for Developing an AI Mindset: Embracing Change and Learning from Mistakes
-===============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Developing an AI mindset is not a passive process; it requires active engagement and a willingness to adopt specific techniques and approaches. In this chapter, we explore two fundamental techniques for fostering an AI mindset: embracing change and learning from mistakes.
 

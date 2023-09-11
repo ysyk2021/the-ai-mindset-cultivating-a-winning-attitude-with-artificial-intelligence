@@ -1,5 +1,4 @@
-Chapter 11: Addressing Concerns and Resistance to AI Adoption
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 While the benefits of Artificial Intelligence (AI) adoption are substantial, they often come hand in hand with concerns and resistance from various stakeholders within an organization. In this chapter, we explore strategies to identify and address these concerns, fostering a more open and receptive environment for AI integration.
 

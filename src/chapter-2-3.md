@@ -1,5 +1,4 @@
-Chapter 3: Machine Learning and Deep Learning
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In our journey to cultivate an AI mindset, it's essential to delve into the fascinating realms of Machine Learning (ML) and Deep Learning (DL). These two subfields of artificial intelligence are at the forefront of innovation and have the potential to revolutionize how we approach problem-solving, decision-making, and automation.
 

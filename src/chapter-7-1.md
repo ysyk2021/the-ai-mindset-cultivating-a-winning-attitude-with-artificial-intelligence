@@ -1,5 +1,4 @@
-Chapter 5: Building a Culture that Embraces AI and Innovation
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the rapidly evolving landscape of the digital age, fostering a culture that wholeheartedly embraces Artificial Intelligence (AI) and innovation is a strategic imperative. This chapter delves into the pivotal role of organizational culture in unlocking the full potential of AI and driving innovation.
 

@@ -1,5 +1,4 @@
-Chapter 7: Use of AI for Professional Development
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the ever-evolving landscape of professional development, artificial intelligence (AI) plays a pivotal role in empowering individuals to advance their careers and acquire new skills. This chapter explores the various ways AI can be leveraged to cultivate a winning attitude towards career advancement and skill acquisition.
 

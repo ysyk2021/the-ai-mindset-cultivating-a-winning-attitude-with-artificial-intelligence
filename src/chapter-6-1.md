@@ -1,5 +1,4 @@
-Chapter 6: Collaborating with AI in the Workplace
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The workplace is rapidly evolving, driven by the integration of artificial intelligence (AI) technologies. In this chapter, we delve into the ways individuals and organizations can effectively collaborate with AI in professional settings to foster productivity, innovation, and a winning attitude toward the future of work.
 
